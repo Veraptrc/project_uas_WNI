@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "458682327472",
+    "firebase_url": "https://wisata-indonesia-130a0-default-rtdb.firebaseio.com",
+    "project_id": "wisata-indonesia-130a0",
+    "storage_bucket": "wisata-indonesia-130a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458682327472:android:dfb7719668e144d0bcf675",
+        "android_client_info": {
+          "package_name": "com.example.wni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458682327472-18ijikahmkmnaps5hufho11c0rvirfk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBOeHjVWsrCSB5gtYc4xnj5Y8JVvXDDZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458682327472-18ijikahmkmnaps5hufho11c0rvirfk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

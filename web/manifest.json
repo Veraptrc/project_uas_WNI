@@ -1,6 +1,6 @@
 {
-    "name": "project_uas_wni",
-    "short_name": "project_uas_wni",
+    "name": "wni",
+    "short_name": "wni",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
